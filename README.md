@@ -1,4 +1,4 @@
-# 🏝️ iOS Dynamic Island for Windows + Control Center Desktop App
+# 🏝️ Windows Dynamic Island + Control Center Desktop App
 
 A fluid, hardware-accelerated **iOS Dynamic Island** built natively for Windows laptops and desktops, complete with a modern **Control Center Desktop App** to calibrate and maintain it.
 
